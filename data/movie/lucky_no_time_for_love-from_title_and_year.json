@@ -1,0 +1,9 @@
+{
+  "item_type": "movie",
+  "title": "Lucky: No Time for Love",
+  "descriptions": "Set against the backdrop of political upheaval in Russia, Lucky: No Time for Love follows Lucky Negi, a spirited Indian schoolgirl stranded in St. Petersburg when sudden civil unrest erupts. As the city descends into chaos, she crosses paths with Aditya “Adi” Sekhri, the disciplined son of India’s ambassador, who is tasked with helping evacuate Indian nationals. Reluctantly thrown together, the mismatched pair embarks on a perilous journey across a frozen, war-torn landscape to reach safety.\n\nDodging militias, braving blizzards, and improvising shelter and transport, Lucky and Adi evolve from bickering strangers into wary allies. Their trek forces them to confront class differences, duty, and fear, with Adi’s measured pragmatism balancing Lucky’s impulsive resilience. Along the way, moments of warmth and humor puncture the tension—shared meals in abandoned cabins, makeshift dances by firelight—hinting at a budding affection neither has time to acknowledge amid the danger.\n\nAs they near an extraction point, shifting front lines and betrayals upend their plans, demanding sacrifices that test their courage and priorities. The title’s refrain—“No Time for Love”—becomes ironic and poignant: in a world collapsing around them, love emerges not as a luxury but as a lifeline. The climax blends action and emotion as Lucky and Adi face a final gauntlet to secure evacuation, making choices that reveal who they’ve become. The film closes on a note of hard-won hope, suggesting that love can find its moment even when time runs out.",
+  "origin": "LLM",
+  "llm_engine": "gpt-5",
+  "generation_prompt_uid": "gen-1765217409-WtF2ywSTfPljNkP5qab0",
+  "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 238.0 words or less.\n\n---\n\n**Title:**\n\nLucky: No Time for Love\n\n**Year:**\n\n2005"
+}

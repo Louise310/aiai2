@@ -1,0 +1,9 @@
+{
+  "item_type": "movie",
+  "title": "No sos vos, soy yo",
+  "descriptions": "After a long stint in the United States, Javier, a thirty-something Argentine doctor, returns to Buenos Aires convinced he and his wife, María, will finally settle down and start the life they planned. Instead, she tells him she’s staying abroad and wants to end the marriage—softening the blow with the classic breakup line, “It’s not you, it’s me.” Reeling, Javier crashes on a friend’s couch, cycles through therapists, and tries to rebuild his routine from scratch.\n\nDetermined to “fix” himself, he dives into self-help strategies, awkward dates, and impulsive decisions—adopting a dog, pursuing new hobbies, and attempting to appear more confident than he feels. His misadventures—both tender and comedic—expose how hard it is to let go of expectations and how grief can make everyday moments feel absurd. Slowly, with the help of eccentric friends and unexpected connections, Javier learns to laugh at his failures and rediscover who he is when he’s not part of a couple.\n\nWhen María reappears, he confronts the possibility of reconciliation versus the fragile independence he’s built. The film balances humor and melancholy as Javier realizes that the breakup wasn’t just her choice; it’s an invitation to grow. Ultimately, he embraces a new beginning, accepting that love—and life—rarely follows the scripts we write for ourselves.",
+  "origin": "LLM",
+  "llm_engine": "gpt-5",
+  "generation_prompt_uid": "gen-1765216710-oVz2KZYsu8Dfx3LOEUZz",
+  "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 220.0 words or less.\n\n---\n\n**Title:**\n\nNo sos vos, soy yo\n\n**Year:**\n\n2004"
+}

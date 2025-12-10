@@ -1,0 +1,9 @@
+{
+  "item_type": "movie",
+  "title": "Satan in High Heels",
+  "descriptions": "Satan in High Heels (1962) is a tawdry, jazz-soaked melodrama set in New York’s nightclub underworld. The story follows Stacey Kane, a calculating and ambitious striptease performer who steals her weak-willed husband’s savings and bolts for Manhattan, determined to reinvent herself. Using charm, guile, and a cool indifference, she talks her way into a job at a swanky nightclub run by the suave but manipulative Pepe Alvarez. Stacey quickly becomes the star attraction, and her ascent draws the attention—and obsession—of powerful men, including the club’s wealthy owner, Arnold Kenyon, and his cocksure son.\n\nAs Stacey plays father against son, she leverages each liaison to climb higher, shedding loyalties as easily as costumes. Her affair with Arnold grants her status, while her flirtations with the son sow jealousy and chaos. Along the way, she betrays allies, including a lovestruck musician and a sympathetic showgirl who sees through her facade. But Stacey’s brazen tactics spark a spiral of recriminations that threaten the club’s fragile ecosystem.\n\nWhen the web of seduction, blackmail, and ambition tightens, Stacey confronts the consequences of her schemes. Fame, it turns out, comes with a price—paid in broken hearts, ruined careers, and the cold realization that the city’s bright lights can burn as easily as they dazzle.",
+  "origin": "LLM",
+  "llm_engine": "gpt-5",
+  "generation_prompt_uid": "gen-1765216585-8bPcHt8kIOaYqzHjcslo",
+  "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 208.0 words or less.\n\n---\n\n**Title:**\n\nSatan in High Heels\n\n**Year:**\n\n1962"
+}

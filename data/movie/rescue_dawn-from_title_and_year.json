@@ -1,0 +1,9 @@
+{
+  "item_type": "movie",
+  "title": "Rescue Dawn",
+  "descriptions": "Rescue Dawn (2006) is a survival war drama based on the true story of German-born U.S. Navy pilot Dieter Dengler. In 1965, during the early days of the Vietnam War, Dengler is shot down over Laos on his first combat mission. Captured by Pathet Lao guerrillas, he endures brutal treatment before being transferred to a remote prisoner-of-war camp deep in the jungle, where he meets fellow American captives, including the wary and weakened Duane and the increasingly unstable Gene.\n\nRefusing to accept a life in captivity, Dengler meticulously plans an escape, studying guard routines, forging tools, and rallying the demoralized prisoners with his unwavering optimism. Tensions rise as starvation, illness, and fear strain the group’s fragile cohesion. When the opportunity finally comes, the escape explodes into chaos, splitting the men and thrusting Dengler and Duane into a desperate flight through the unforgiving wilderness. Battling monsoon rains, leeches, injury, and hunger, Dengler clings to the belief that rescue is possible.\n\nAs pursuit closes in and the jungle becomes both adversary and test, the thin line between hope and despair sharpens. Dengler’s resilience and ingenuity carry him to a risky final gambit, signaling for help from passing aircraft. The story culminates in a hard-won rescue that underscores the cost of survival and the power of indomitable will, portraying Dengler’s ordeal as both a physical escape and a testament to human endurance.",
+  "origin": "LLM",
+  "llm_engine": "gpt-5",
+  "generation_prompt_uid": "gen-1765216391-EBFWKo3PtLkudLTNi83J",
+  "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 229.0 words or less.\n\n---\n\n**Title:**\n\nRescue Dawn\n\n**Year:**\n\n2006"
+}

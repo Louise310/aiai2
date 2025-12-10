@@ -1,0 +1,9 @@
+{
+  "item_type": "movie",
+  "title": "Less Than Zero",
+  "descriptions": "Set in the decadent glow of late-1980s Los Angeles, Less Than Zero follows Clay, a college freshman who returns home for Christmas to find his old world corroded by wealth, apathy, and addiction. His former girlfriend, Blair, is now entangled with his charismatic best friend Julian, whose spiraling cocaine habit has left him in debt to a dangerous dealer and estranged from his powerful father. As Clay tries to reconnect, he’s pulled into a nightlife of clubs, mansions, and after-hours parties where excess masks desperation.\n\nJulian, once a golden boy with big plans, is now hustling to survive, promising change even as he sinks deeper. Clay, torn between love, loyalty, and disillusionment, tries to rescue him, rekindling feelings for Blair while confronting the emptiness beneath their privilege. The trio’s bonds fray under pressure from violence, betrayal, and the lure of escape, exposing how money offers access but not meaning.\n\nClay’s attempts to settle Julian’s debts and get him clean collide with the dealer’s control and Julian’s shame. Moments of tenderness and resolve are undercut by relapse and exploitation, culminating in a bleak reckoning that forces Clay and Blair to face what they can’t fix. In the end, the shimmering surfaces of their world give way to loss and hard-won clarity, as Clay recognizes that leaving isn’t the same as healing, and that some damage can’t be undone, no matter how much you want to go back to before.",
+  "origin": "LLM",
+  "llm_engine": "gpt-5",
+  "generation_prompt_uid": "gen-1765215111-0nDIWLltiYGV1xGst3RM",
+  "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 260.0 words or less.\n\n---\n\n**Title:**\n\nLess Than Zero\n\n**Year:**\n\n1987"
+}

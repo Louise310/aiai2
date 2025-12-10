@@ -1,0 +1,9 @@
+{
+  "item_type": "movie",
+  "title": "Marked Woman",
+  "descriptions": "In 1937’s Marked Woman, Mary Dwight is a tough New York nightclub “hostess” working under the thumb of suave but brutal gangster Johnny Vanning, who controls a web of clip joints that fleece wealthy patrons. When a young customer is killed after resisting a shakedown, Mary and her fellow hostesses are forced to lie to protect the racket. Assistant District Attorney David Graham is determined to break Vanning’s empire but lacks witnesses willing to risk retaliation.\n\nAfter Mary’s younger sister Betty, inspired by Mary’s supposed “respectable” life, becomes entangled with Vanning’s crowd and is murdered, Mary’s loyalty to the underworld shatters. Beaten and scarred as a warning, she becomes the “marked woman” of the title. Refusing to be silenced, Mary agrees to testify, persuading her friends to stand with her despite fear and corruption closing in.\n\nThe trial brings intimidation, perjury, and danger, but Mary’s courage exposes Vanning’s operations and forces the city to confront its complicity. In the climax, Mary’s testimony and the collective stand of the women help secure justice, even as the personal cost is etched on her face. The film blends crime drama and social commentary, highlighting exploitation, resilience, and the power of solidarity against entrenched vice.",
+  "origin": "LLM",
+  "llm_engine": "gpt-5",
+  "generation_prompt_uid": "gen-1765215321-LyZzwmBio4qBlRhmTmxw",
+  "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 210.0 words or less.\n\n---\n\n**Title:**\n\nMarked Woman\n\n**Year:**\n\n1937"
+}

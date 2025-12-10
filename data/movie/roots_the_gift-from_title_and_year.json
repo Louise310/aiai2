@@ -1,0 +1,9 @@
+{
+  "item_type": "movie",
+  "title": "Roots: The Gift",
+  "descriptions": "Set in the turbulent 1770s, Roots: The Gift is a holiday-season tale spun from the world of Alex Haley’s Roots, following Kunta Kinte and Fiddler during a perilous bid to free enslaved people. When Kunta (still defiant and newly hardened by bondage) is hired out with Fiddler to a neighboring plantation for Christmas, the relative leniency of the season reveals a covert network of abolitionists and enslaved resisters plotting an escape along early routes that will become the Underground Railroad.\n\nDrawn into the plan by a determined free Black man and sympathetic Quakers, Kunta sees a chance to reclaim agency and help others reach freedom, while Fiddler—torn between fear and hard-earned caution—wrestles with the risk to their lives. As patrols tighten and a ruthless slave catcher closes in, the duo shepherds a small group, including families with children, through swamps and winter woods under the cover of holiday gatherings.\n\nThe journey tests their bond: Kunta’s unyielding spirit clashes with Fiddler’s survival pragmatism until each recognizes the other’s courage as essential. Betrayals, narrow escapes, and quiet acts of bravery unfold, culminating in a tense standoff that forces sacrifice to ensure at least some can continue north.\n\nMore intimate than an epic, the film frames “the gift” not as material bounty but as solidarity, hope, and the will to resist. It honors the resilience of those enslaved, the risks taken by allies, and the bittersweet triumphs won when freedom for a few comes at a cost borne by many.",
+  "origin": "LLM",
+  "llm_engine": "gpt-5",
+  "generation_prompt_uid": "gen-1765215711-2YT0btg9rghqSOuvecTP",
+  "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 253.0 words or less.\n\n---\n\n**Title:**\n\nRoots: The Gift\n\n**Year:**\n\n"
+}

@@ -1,0 +1,9 @@
+{
+  "item_type": "movie",
+  "title": "Mysteries of a Barbershop",
+  "descriptions": "In this 1920s-style slapstick farce, a timid young man stumbles into a bustling city barbershop to prove himself worthy of a sweetheart’s affection. The shop, already a theater of chaos, is run by an overconfident barber whose “modern methods” are anything but. A parade of eccentric customers files in: a pompous general needing a trim, a poet craving inspiration, a society lady with a towering coiffure, and a mysterious stranger whose identity keeps shifting along with his mustache.\n\nEach haircut becomes a calamity. Razors fly, lather piles into snowdrifts, and combs vanish into hair as the barber’s apprentice mistakes tonics for glue and perfumes for chloroform. A simple shave spirals into a duel; a hair-styling demonstration ends in a frothy explosion; and a misguided makeover transforms a dignified patron into an accidental avant-garde icon.\n\nMeanwhile, a minor misunderstanding blossoms into a full-blown detective yarn: the mysterious stranger might be a jewel thief hiding in plain sight. Our hapless hero, swept along by coincidence and courage, improvises a daring pursuit through revolving chairs and collapsing partitions. In the end, the wrong people get shaved, the right people get kissed, and order—of a sort—is restored, as the barbershop resumes business with a fresh sign promising “Precision and Peace,” neither of which seems likely to last.",
+  "origin": "LLM",
+  "llm_engine": "gpt-5",
+  "generation_prompt_uid": "gen-1765215748-yBUmOVRRbtHJc7bX24Wu",
+  "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 209.0 words or less.\n\n---\n\n**Title:**\n\nMysteries of a Barbershop\n\n**Year:**\n\n"
+}

@@ -1,0 +1,9 @@
+{
+  "item_type": "movie",
+  "title": "Madadayo",
+  "descriptions": "Madadayo (1993) follows the later years of Professor Uehida, a revered German literature teacher in postwar Tokyo, loosely inspired by director Akira Kurosawa’s own mentor. Upon retiring during World War II, the gentle, dignified professor vows to keep teaching through life itself. His devoted former students gather annually to honor him with banquets where they ask, “Are you ready?” and he replies, with playful defiance, “Madadayo” (“Not yet!”), affirming his refusal to succumb to age or despair.\n\nAs Japan rebuilds, the professor and his wife face hardships: their home is destroyed in an air raid, they endure scarcity, and later they suffer the loss of a beloved stray cat that had become family. Through these trials, the students’ loyalty becomes a lifeline, providing food, companionship, and unwavering respect. The film unfolds as a series of vignettes—humorous to poignant—charting the rhythms of aging, memory, and gratitude. The annual toasts evolve into a ritual of community and resilience, reflecting the professor’s stoic optimism and moral clarity.\n\nUltimately, Madadayo becomes a meditation on time and mortality. The professor’s repeated “Not yet!” is both a joke and a creed: a celebration of life’s persistence, the sustaining power of mentorship, and the bond between teacher and students that outlives individual sorrow and change.",
+  "origin": "LLM",
+  "llm_engine": "gpt-5",
+  "generation_prompt_uid": "gen-1765214787-eVTABjfCKQJPW3yKhxpN",
+  "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 217.0 words or less.\n\n---\n\n**Title:**\n\nMadadayo\n\n**Year:**\n\n1993"
+}

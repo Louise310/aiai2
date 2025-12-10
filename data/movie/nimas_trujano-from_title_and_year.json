@@ -1,0 +1,9 @@
+{
+  "item_type": "movie",
+  "title": "Ánimas Trujano",
+  "descriptions": "Set in a rural Oaxacan village, Ánimas Trujano follows a proud, hard-drinking Indigenous man whose greatest ambition is to be named mayordomo—the prestigious sponsor of the village’s annual fiesta. Ánimas equates the honor with manhood and redemption, believing it will erase his reputation for irresponsibility and gambling. Lacking the wealth required to fund the celebrations, he schemes desperately for money, borrowing recklessly and making choices that endanger his family’s stability and honor.\n\nHis wife, the steadfast Juana, and their children bear the weight of his obsession as debts mount and gossip spreads. Ánimas’s stubborn pride collides with communal expectations, exposing tensions between tradition and survival. When his daughter’s future becomes entangled in his pursuit of status, the moral cost of his ambition comes sharply into focus. Surrounded by the rhythms and rituals of village life, Ánimas is forced to confront the consequences of his vanity and neglect.\n\nThe film builds to the fiesta, where the question is not only whether Ánimas will achieve the title, but what it will mean if he does. Ultimately, Ánimas Trujano portrays a flawed man struggling against poverty, custom, and his own impulses, seeking dignity in a world that demands sacrifice for honor.",
+  "origin": "LLM",
+  "llm_engine": "gpt-5",
+  "generation_prompt_uid": "gen-1765215099-fsoLPfF5LRXeYInhJ5gC",
+  "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 209.0 words or less.\n\n---\n\n**Title:**\n\nÁnimas Trujano\n\n**Year:**\n\n1962"
+}

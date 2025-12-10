@@ -1,0 +1,9 @@
+{
+  "item_type": "movie",
+  "title": "Rudraveena",
+  "descriptions": "Rudraveena (1988) is a Telugu social drama about Suryam, an idealistic, compassionate young man born into a prestigious Carnatic music family led by his stern, caste-bound father, the renowned vocalist Bilahari Sankara Sastry. While trained in classical rigor, Suryam believes music’s true purpose is to uplift society beyond barriers. He falls in love with Lalitha, a spirited village woman from a lower social standing, whose dignity and resilience mirror his own ideals.\n\nTroubled by poverty, untouchability, and alcoholism corroding village life, Suryam rejects hollow tradition and takes his veena into the streets, organizing sanitation drives, promoting education, and uniting communities through song. His reformist zeal clashes with his father’s orthodoxy, culminating in a painful estrangement when Suryam insists that devotion and art are meaningless without compassion.\n\nWith Lalitha as partner and conscience, Suryam perseveres, transforming the village step by step. His initiatives—clean water, school access, inter-dining, and temperance—begin to heal divisions. As the community’s harmony grows, so does the recognition that Suryam’s music, rooted in humanism, honors the divine more than rigid purity ever could. In a moving reconciliation, Sastry acknowledges his son’s moral victory, accepting Lalitha and embracing a broader definition of tradition where the veena’s voice resonates in service to humanity.",
+  "origin": "LLM",
+  "llm_engine": "gpt-5",
+  "generation_prompt_uid": "gen-1765217517-xGVCPmTgR6Y4WbaKruOJ",
+  "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 213.0 words or less.\n\n---\n\n**Title:**\n\nRudraveena\n\n**Year:**\n\n1988"
+}

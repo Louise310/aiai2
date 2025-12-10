@@ -1,0 +1,9 @@
+{
+  "item_type": "movie",
+  "title": "Mice Follies",
+  "descriptions": "In the 1954 short “Mice Follies,” two spirited mouse friends turn a quiet household into a midnight playground after the humans go to sleep. Drawn to the kitchen’s gleaming tiles and cold-box glow, they transform the refrigerator’s frosty innards into a makeshift ice rink, lacing up bottle-cap skates and carving figure eights across a glaze of spilled milk. Their merriment soon attracts trouble: a resident cat, alerted by the clatter of utensils and jingling caps, slinks in to ambush them.\n\nWhat follows is a ballet of slapstick and quick thinking. The mice improvise elaborate gags with household items—soap as a slick decoy, pots and pans as shields, twine as tripwires—turning the kitchen into a booby-trapped arena. When the cat charges onto the improvised rink, it’s outmaneuvered by the mice’ synchronized skating and comic timing, sliding into cabinets, tumbling through curtains, and getting doused by a teetering pitcher.\n\nAs dawn nears, the chaos crescendos with a carefully orchestrated mouse routine that sends the cat spinning into the pantry, locked behind a jumble of broom handles and mops. Victorious but winded, the mice take a final lap across their icy stage, saluting their audience of clattering dishes and humming appliances, before slipping back into the walls. With the house returning to stillness, only faint skate marks and scattered crumbs hint at the night’s gleeful “follies.”",
+  "origin": "LLM",
+  "llm_engine": "gpt-5",
+  "generation_prompt_uid": "gen-1765215921-UE2AHi7lS4p9Lzh8wYgr",
+  "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 217.0 words or less.\n\n---\n\n**Title:**\n\nMice Follies\n\n**Year:**\n\n1954"
+}
