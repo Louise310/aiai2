@@ -1,0 +1,9 @@
+{
+  "item_type": "product",
+  "title": "Board game Azul",
+  "descriptions": "{\n  \"title\": \"Azul\",\n  \"category\": \"Board Game\",\n  \"brand\": \"Next Move\",\n  \"material\": \"Paper\",\n  \"theme\": \"Patterns\",\n  \"genre\": \"Family\",\n  \"players\": {\n    \"min\": 2,\n    \"max\": 4\n  },\n  \"age_range\": \"All ages (family-friendly)\",\n  \"core_mechanics\": [\n    \"Tile drafting\",\n    \"Pattern building\",\n    \"Set collection\",\n    \"Strategic planning\",\n    \"Opponent disruption\"\n  ],\n  \"components_quality\": \"High-quality components and decorative tile pieces\",\n  \"designer\": \"Michael Riesling\",\n  \"awards\": [\n    \"Award-winning\"\n  ],\n  \"selling_points\": [\n    \"Craft tile mosaics\",\n    \"Strategic gameplay\",\n    \"Suitable for family game night\"\n  ]\n}",
+  "origin": "LLM",
+  "llm_engine": "gpt-5",
+  "generation_prompt_uid": "gen-1765272232-OJtWLGQOXrFsb0DeszNq",
+  "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: Board game Azul\n\nDescription: Board game Azul\n\n* Brand: Next Move\n* Material: Paper\n* Theme: Patterns\n* Genre: Family\n* Number of Players: 2-4\n\nBECOME AN ARTISAN: Craft exquisite tile mosaics in this award-winning board game.\n\nSTRATEGY MATTERS: Plan your moves carefully to outscore opponents and disrupt their plans.\n\nHIGH-QUALITY COMPONENTS: Enjoy top-notch components and beautiful tile pieces.\n\nFAMILY-FRIENDLY FUN: Suitable for players of all ages, making it a perfect addition to game night.\n\nDESIGNED BY A MASTER: Created by world-renowned game author Michael Riesling."
+}

@@ -1,0 +1,9 @@
+{
+  "item_type": "product",
+  "title": "Barbie (Blu-Ray + Digital)",
+  "descriptions": "{\n  \"title\": \"Barbie (Blu-Ray + Digital)\",\n  \"format\": [\n    \"Blu-Ray\",\n    \"Digital\"\n  ],\n  \"description_summary\": \"Life in Barbie Land is perfect unless experiencing an existential crisis or being Ken.\",\n  \"bonus_content\": [\n    \"It’s a Weird World\",\n    \"All-Star Barbie Party\",\n    \"Musical Make-Believe\",\n    \"Becoming Barbie\",\n    \"Welcome to Barbie Land\",\n    \"Playing Dress-Up: An Extended Look at the Costumes of Barbie\"\n  ],\n  \"franchise\": \"Barbie\",\n  \"genres\": [\n    \"Comedy\",\n    \"Fantasy\"\n  ]\n}",
+  "origin": "LLM",
+  "llm_engine": "gpt-5",
+  "generation_prompt_uid": "gen-1765272751-fxfuOucHKRzOeqri0Nsd",
+  "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: Barbie (Blu-Ray + Digital)\n\nDescription: </span><p><span>To live in Barbie Land is to be a perfect being in a perfect place. Unless you have a full‐on existential crisis. Or you're a Ken.</span></p><span><br/>Bonus Content:<br/></span><p><span>It’s a Weird World All-Star Barbie Party Musical Make-Believe Becoming Barbie Welcome to Barbie Land Playing Dress-Up: An Extended Look at the Costumes of Barbie </span></p><span>"
+}

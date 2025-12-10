@@ -1,0 +1,9 @@
+{
+  "item_type": "product",
+  "title": "Amazon Basics Easy Grip Workout Dumbbell, Neoprene Coated, Various Sets and Weights available",
+  "descriptions": "{\n  \"title\": \"Amazon Basics Easy Grip Workout Dumbbell, Neoprene Coated\",\n  \"product_type\": \"Dumbbells\",\n  \"set_included\": \"2 dumbbells\",\n  \"weight_per_dumbbell_lb\": 10,\n  \"total_weight_lb\": 20,\n  \"material_coating\": \"Neoprene\",\n  \"color\": \"Navy Blue\",\n  \"grip\": {\n    \"type\": \"Nonslip\",\n    \"comfort\": \"Comfortable, secure hold\"\n  },\n  \"end_shape\": \"Hexagon\",\n  \"anti_roll\": true,\n  \"identification\": {\n    \"printed_weight_on_end_caps\": true,\n    \"color_coded\": true\n  },\n  \"durability\": \"Long-lasting\",\n  \"storage\": \"Stay-in-place due to hex ends\",\n  \"available_sizes\": \"Multiple sizes/weights available for mixing and matching\",\n  \"intended_use\": [\"Exercise\", \"Strength training\"],\n  \"brand\": \"Amazon Basics\"\n}",
+  "origin": "LLM",
+  "llm_engine": "gpt-5",
+  "generation_prompt_uid": "gen-1765274009-DoopUCy4uscqrerxoLe1",
+  "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: Amazon Basics Easy Grip Workout Dumbbell, Neoprene Coated, Various Sets and Weights available\n\nDescription: 10 pound dumbbell (set of 2) for exercise and strength training\n\nNeoprene coating in Navy Blue offers long lasting durability\n\nHexagon shaped ends prevent dumbbells from rolling away and offer stay-in-place storage\n\nNonslip grip promotes a comfortable, secure hold\n\nAvailable in multiple sizes to mix and match for specific workout needs and to expand on over time\n\nPrinted weight number on each end cap and color coded for quick identification"
+}
