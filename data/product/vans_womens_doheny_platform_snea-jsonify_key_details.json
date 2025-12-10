@@ -1,0 +1,9 @@
+{
+  "item_type": "product",
+  "title": "Vans Women's Doheny Platform Sneaker",
+  "descriptions": "{\n  \"title\": \"Vans Women's Doheny Platform Sneaker\",\n  \"brand\": \"Vans\",\n  \"gender\": \"Women\",\n  \"style\": \"Sneaker\",\n  \"inspiration\": [\"Vans Era\", \"Vans Authentic\"],\n  \"upper_material\": {\n    \"construction\": \"double-stitched\",\n    \"durability\": true\n  },\n  \"outsole\": {\n    \"type\": \"rubber\",\n    \"pattern\": \"signature waffle\"\n  },\n  \"construction\": \"vulcanized\",\n  \"comfort_features\": [\"vulcanized construction for increased comfort\"],\n  \"platform\": true\n}",
+  "origin": "LLM",
+  "llm_engine": "gpt-5",
+  "generation_prompt_uid": "gen-1765273898-q1k7A7bAUj1FpRSQYl5g",
+  "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: Vans Women's Doheny Platform Sneaker\n\nDescription: Inspired by Vans classic Era and authentic, the doheny features double-stitched uppers for durability, the signature rubber waffle outsoles and a vulcanized construction that offers increased comfort."
+}
