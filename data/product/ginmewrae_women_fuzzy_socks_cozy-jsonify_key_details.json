@@ -1,0 +1,9 @@
+{
+  "item_type": "product",
+  "title": "Ginmewrae Women Fuzzy Socks Cozy Soft Fluffy Cute Animal Slipper Socks Sleeping Warm Socks Christmas Gift for Girls",
+  "descriptions": "{\n  \"title\": \"Ginmewrae Women Fuzzy Socks Cozy Soft Fluffy Cute Animal Slipper Socks Sleeping Warm Socks Christmas Gift for Girls\",\n  \"brand\": \"Ginmewrae\",\n  \"product_type\": \"Fuzzy socks\",\n  \"target_audience\": [\n    \"Women\",\n    \"Girls\"\n  ],\n  \"style\": [\n    \"Cozy\",\n    \"Soft\",\n    \"Fluffy\",\n    \"Cute animal\",\n    \"Slipper socks\"\n  ],\n  \"use_cases\": [\n    \"Sleeping\",\n    \"Keeping warm\",\n    \"Gift (Christmas)\"\n  ],\n  \"seasonality\": [\n    \"Cold weather\",\n    \"Holiday/Christmas\"\n  ],\n  \"features_inferred\": [\n    \"Warmth\",\n    \"Soft texture\",\n    \"Fuzzy material\",\n    \"Animal-themed design\",\n    \"Indoor slipper-like use\"\n  ],\n  \"material\": \"Not specified\",\n  \"sizes\": \"Not specified\",\n  \"colors_patterns\": \"Not specified (likely animal patterns)\",\n  \"care_instructions\": \"Not specified\",\n  \"package_contents\": \"Not specified\"\n}",
+  "origin": "LLM",
+  "llm_engine": "gpt-5",
+  "generation_prompt_uid": "gen-1765273446-y5AQEMYtaevUARdl0tyn",
+  "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: Ginmewrae Women Fuzzy Socks Cozy Soft Fluffy Cute Animal Slipper Socks Sleeping Warm Socks Christmas Gift for Girls\n\nDescription: fuzzy socks"
+}

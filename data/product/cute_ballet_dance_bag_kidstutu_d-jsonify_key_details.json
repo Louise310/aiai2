@@ -1,0 +1,9 @@
+{
+  "item_type": "product",
+  "title": "Cute Ballet Dance Bag KidsTutu Dress Dance Bag, Girls Personalized Waterproof Bag Ballerina Duffle Bag",
+  "descriptions": "{\n  \"title\": \"Cute Ballet Dance Bag KidsTutu Dress Dance Bag, Girls Personalized Waterproof Bag Ballerina Duffle Bag\",\n  \"category\": \"Dance bag / duffle bag\",\n  \"target_audience\": [\"Girls\", \"Kids\", \"Ballet dancers\"],\n  \"use_cases\": [\"Ballet classes\", \"Dance practice\", \"Travel to performances\"],\n  \"features\": {\n    \"style\": [\"Cute\", \"Ballerina-themed\", \"Tutu dress motif\"],\n    \"personalization\": true,\n    \"waterproof\": true,\n    \"bag_type\": \"Duffle\"\n  },\n  \"materials\": null,\n  \"dimensions\": null,\n  \"colors\": null,\n  \"compartments\": null,\n  \"closures\": null,\n  \"brand\": null,\n  \"care_instructions\": null,\n  \"included_accessories\": null,\n  \"notes\": \"Details inferred from title; product description not provided.\"\n}",
+  "origin": "LLM",
+  "llm_engine": "gpt-5",
+  "generation_prompt_uid": "gen-1765273575-zWEbGZRNxxYvpRdsl7DC",
+  "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: Cute Ballet Dance Bag KidsTutu Dress Dance Bag, Girls Personalized Waterproof Bag Ballerina Duffle Bag\n\nDescription: "
+}
