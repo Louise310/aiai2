@@ -1,0 +1,9 @@
+{
+  "item_type": "movie",
+  "title": "Gratefulness",
+  "descriptions": "In a small coastal town in 2003, 17-year-old Maya Santos struggles to keep her fractured family together after her father’s fishing accident leaves him unable to work. Her mother juggles shifts at a diner, her younger brother acts out, and Maya’s dream of leaving for art school feels impossibly distant. When a new community service requirement pairs Maya with Arthur Bell, a reclusive widower and former jazz pianist recovering from a stroke, she approaches the task with resentment and impatience.\n\nArthur’s sharp wit and stubborn independence collide with Maya’s simmering anger, but a tentative truce forms as they share afternoon routines, old records, and stories of paths not taken. Through teaching Arthur to navigate small daily hurdles—and hearing his unvarnished regrets—Maya begins to see her own life with a different lens. Meanwhile, a family crisis forces her to choose between a scholarship interview and being present at home.\n\nAs summer wanes, Maya organizes a modest neighborhood concert to honor Arthur’s late wife, coaxing him to play again. The event draws the town together, quietly stitching a support net around Maya’s family. In the aftermath, Arthur writes Maya a letter urging her to accept help without shame and to pursue her art with courage.\n\nGratefulness becomes not a burden but a bridge: between generations, between sacrifice and ambition, and between the imperfect love of family and the imperfect grace of strangers. Maya departs for school, carrying the town’s music with her.",
+  "origin": "LLM",
+  "llm_engine": "gpt-5",
+  "generation_prompt_uid": "gen-1765214866-dwvLRC7ujdT8R7xjDM6d",
+  "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 240.0 words or less.\n\n---\n\n**Title:**\n\nGratefulness\n\n**Year:**\n\n2003"
+}

@@ -1,0 +1,9 @@
+{
+  "item_type": "movie",
+  "title": "Daffy Duck Slept Here",
+  "descriptions": "Set in a bustling 1948 city during a rainy night, Daffy Duck Slept Here is a classic Looney Tunes short centered on chaotic roommate antics. Porky Pig arrives at a fully booked hotel and is forced to share a room with Daffy, who immediately proves to be the world’s worst roommate. Daffy’s manic energy, nonstop chatter, and disruptive pranks keep Porky from getting a wink of sleep. The mayhem escalates when Daffy introduces his “invisible kangaroo” friend, Hymie, whose imaginary presence becomes an excuse for more slapstick destruction—broken furniture, slammed doors, and ricocheting gags.\n\nPorky’s attempts at politeness turn to desperation as Daffy commandeers the bed, the bathroom, and the entire room with lunatic logic. Hotel staff, alarmed by the ruckus, only make things worse as Daffy smoothly deflects blame. In a crescendo of comic disaster, the room is practically demolished, leaving Porky frazzled and sleepless. By morning, Daffy breezes out cheerfully, leaving a note—“Daffy Duck slept here”—as the ultimate calling card of chaos. The short ends with Porky, defeated and exhausted, surrounded by the wreckage, perfectly encapsulating the mismatched-roommate farce and Daffy’s signature brand of unhinged bravado.",
+  "origin": "LLM",
+  "llm_engine": "gpt-5",
+  "generation_prompt_uid": "gen-1765214820-tdcEpbMILHkn1ghsl5yC",
+  "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 210.0 words or less.\n\n---\n\n**Title:**\n\nDaffy Duck Slept Here\n\n**Year:**\n\n1948"
+}

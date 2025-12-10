@@ -1,0 +1,9 @@
+{
+  "item_type": "movie",
+  "title": "Hot Blood",
+  "descriptions": "In Hot Blood (1956), a colorful melodrama set in the vibrant Romani community of Los Angeles, restless dancer Marco is groomed by his tradition-bound brother, Stefano, to succeed him as tribal chief. Stefano arranges Marco’s marriage to the proud and spirited Annie to cement alliances and calm Marco’s reckless reputation. Marco, however, is a carefree showman who prefers nightclub stages and flirtations to the responsibilities of leadership or marriage. Annie, insulted by his swagger and evasions, matches his defiance with her own fiery independence.\n\nAs Stefano’s health declines, tensions mount: rival factions challenge his authority, and the police scrutinize the tribe’s gatherings. Marco’s charm curdles into selfishness when he tries to dodge duty after the wedding, provoking a public rift with Annie and shaming Stefano. Yet Annie’s fierce loyalty to the community—and Stefano’s quiet sacrifice—force Marco to confront the costs of his vanity.\n\nWhen an opportunistic rival exploits the chaos to seize control, Marco must decide whether to run back to the spotlight or defend the people he has taken for granted. A climactic celebration erupts into confrontation, where dance, ritual, and honor collide. Marco finally embraces his role, winning Annie’s respect not with bravado but with responsibility. The film closes on reconciliation and renewed tradition, its Technicolor pageantry emphasizing both the lure of freedom and the gravity of belonging, as hot blood cools into hard-earned maturity.",
+  "origin": "LLM",
+  "llm_engine": "gpt-5",
+  "generation_prompt_uid": "gen-1765216929-O6NJI1m7aEM2RgDkwhP5",
+  "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 229.0 words or less.\n\n---\n\n**Title:**\n\nHot Blood\n\n**Year:**\n\n1956"
+}

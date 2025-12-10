@@ -1,0 +1,9 @@
+{
+  "item_type": "movie",
+  "title": "Dead Ringer",
+  "descriptions": "Wealthy socialite Margaret DeLorca dies suddenly, drawing her estranged, down-on-her-luck twin sister, Edith Phillips, back into her orbit. Years earlier, Margaret stole Edith’s fiancé, the affluent playboy Frank DeLorca, by pretending to be Edith; they married, and Frank’s recent death has left Margaret in opulent widowhood while Edith runs a failing bar. When Edith confronts Margaret about the past and their starkly different lives, jealousy and desperation ignite. Seizing a chance at revenge and reinvention, Edith murders Margaret and assumes her identity, meticulously mimicking her manner, wardrobe, and signature perfume. She moves into the mansion, manages servants, and fends off suspicious acquaintances, including Margaret’s suave lover, Tony, and Edith’s own earnest boyfriend, Detective Jim Hobbson.\n\nAs Edith navigates the treacherous masquerade, complications mount: legal matters surrounding Frank’s estate, a loyal Great Dane that reacts oddly to its “mistress,” and Tony’s probing questions. When a concealed crime from Margaret’s past surfaces, Edith finds herself implicated as Margaret in ways she never anticipated. The police investigation tightens, and Edith is trapped by the very persona she crafted. In a darkly ironic finale, her bid to steal a life leads to exposure and punishment, blurring guilt between the sisters and sealing Edith’s fate.",
+  "origin": "LLM",
+  "llm_engine": "gpt-5",
+  "generation_prompt_uid": "gen-1765215264-KVOc7YFmfDnj4deCFH6C",
+  "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 209.0 words or less.\n\n---\n\n**Title:**\n\nDead Ringer\n\n**Year:**\n\n1964"
+}

@@ -1,0 +1,9 @@
+{
+  "item_type": "movie",
+  "title": "Conrack",
+  "descriptions": "On a remote island off the coast of South Carolina in 1969, idealistic white teacher Pat Conroy—nicknamed “Conrack” by his students—arrives to teach a class of Black children who have been largely isolated and neglected by the school system. Shocked by their lack of basic knowledge—many can’t name their country, read adequately, or swim—Conrack adopts unorthodox, energetic methods. He reads them poetry, plays classical music, teaches them hygiene and geography, and pushes them to question the world beyond the island. His warmth and irreverence win the children’s trust, but his approach clashes with the rigid, fearful school administration and a principal who prioritizes discipline over curiosity.\n\nConrack takes the kids on eye-opening excursions to the mainland, exposing them to a Halloween parade and the larger culture they’ve never seen. As the children’s confidence and skills grow, community tensions rise. Accused of insubordination and cultural insensitivity by officials who interpret his methods as defiance, Conrack faces dismissal. In a poignant finale, he is forced to leave, but not before saying goodbye from a boat as his students line the shore, chanting his name. The film, adapted from Pat Conroy’s memoir The Water Is Wide, is a bittersweet portrait of systemic inequality, the power of education, and the enduring bond between a teacher and his students.",
+  "origin": "LLM",
+  "llm_engine": "gpt-5",
+  "generation_prompt_uid": "gen-1765217513-CmBanSvoh8aC8JzKeHbK",
+  "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 212.0 words or less.\n\n---\n\n**Title:**\n\nConrack\n\n**Year:**\n\n1974"
+}

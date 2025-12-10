@@ -1,0 +1,9 @@
+{
+  "item_type": "movie",
+  "title": "Daddy Cool",
+  "descriptions": "In the 2009 comedy Daddy Cool, a sprawling family gathers for the funeral of its patriarch at the suburban home of his son, who’s determined to deliver a dignified send-off. His carefully planned day unravels almost immediately: the undertaker delivers the wrong body, the successful brother arrives late and egotistical, and eccentric relatives keep stirring old grudges. Chaos escalates when a guest accidentally ingests a powerful hallucinogen mistaken for medication, turning solemn condolences into delirious outbursts, rooftop escapades, and wildly inappropriate confessions.\n\nAmid the pandemonium, a mysterious stranger appears, quietly threatening to reveal a scandalous secret about the deceased unless he’s paid off. The brothers, desperate to protect the family’s reputation, attempt a discreet solution that spirals into slapstick disaster involving a tipped coffin, misdirected eulogies, and frantic attempts to keep the truth—and the body—under wraps. As tensions peak, the family’s facades crack, forcing everyone to confront their insecurities, rivalries, and what they actually meant to the man they’re mourning.\n\nBy the end, botched schemes give way to reluctant honesty. The funeral becomes less about flawless ceremony and more about messy affection, shared grief, and acceptance. Daddy Cool blends farce with heart, showing that even the most disastrous day can pull a fractured family closer together.",
+  "origin": "LLM",
+  "llm_engine": "gpt-5",
+  "generation_prompt_uid": "gen-1765216723-Vu7yaq3MkNHrZUvWxY3N",
+  "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 219.0 words or less.\n\n---\n\n**Title:**\n\nDaddy Cool\n\n**Year:**\n\n2009"
+}

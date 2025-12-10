@@ -1,0 +1,9 @@
+{
+  "item_type": "movie",
+  "title": "Christmas Story",
+  "descriptions": "Set amid the vast, snowbound wilderness of 19th-century Lapland, Christmas Story (2007) reimagines the origins of Santa Claus through a tender coming-of-age tale. After young Nikolas loses his family in a tragic accident, the villagers agree to care for him by passing him from household to household each Christmas. In gratitude, Nikolas carves toys for the children who sheltered him, leaving small gifts behind as he moves to a new home each year.\n\nWhen harsh times force Nikolas to apprentice with the stern carpenter Iisakki, the boy’s compassion and craft deepen. Though Iisakki initially resents him, the old man gradually softens, teaching Nikolas skills that transform simple carvings into wondrous toys. As Nikolas grows, his promise to remember every child leads him farther into the northern forests, where secrecy, tradition, and kindness blend into legend.\n\nFacing aging, loss, and the impossibility of visiting every home, Nikolas embraces a life of quiet magic—guided by loyal friends, reindeer, and a workshop hidden in the wintry hills. His yearly journey on Christmas Eve becomes a ritual of hope, binding a scattered community through generosity. The film weaves folklore and human warmth into a gentle origin story about grief, gratitude, and the enduring power of giving.",
+  "origin": "LLM",
+  "llm_engine": "gpt-5",
+  "generation_prompt_uid": "gen-1765215305-TsVL57tXuFa98ypYNbd6",
+  "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 210.0 words or less.\n\n---\n\n**Title:**\n\nChristmas Story\n\n**Year:**\n\n2007"
+}

@@ -1,0 +1,9 @@
+{
+  "item_type": "movie",
+  "title": "Dust Be My Destiny",
+  "descriptions": "Joe Bell, a drifting ex-con trying to go straight, finds himself trapped by circumstance when he’s accused of a crime he didn’t commit. After a chain-gang sentence for a petty offense, he escapes during a chaotic work detail and hides out on a farm, where he meets Mabel Alden, the stepdaughter of the farm’s harsh foreman. Compassionate and tough-minded, Mabel believes Joe deserves a second chance, and the two fall in love as they plan a modest future far from the shadow of the law.\n\nTheir fragile hope shatters when the foreman confronts Joe, leading to a struggle that ends in the man’s accidental death. Fearing no one will believe their story, Joe and Mabel flee across small-town America, taking odd jobs under assumed names, forever glancing over their shoulders. A chance at redemption appears when Joe proves his integrity working at a newspaper, but their past catches up when a suspicious editor starts digging and the authorities close in.\n\nAs headlines sensationalize their flight, Joe is pushed to choose between continued running and facing justice to clear his name. With Mabel’s unwavering support, he risks everything in court, where the truth of the struggle emerges against the tide of public prejudice. In a final bid for dignity, Joe confronts the system that branded him a criminal, hoping that love and honesty can overturn fate, even when dust has been his destiny.",
+  "origin": "LLM",
+  "llm_engine": "gpt-5",
+  "generation_prompt_uid": "gen-1765217377-beYsYZP4VkJGxQUyjx9N",
+  "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 231.0 words or less.\n\n---\n\n**Title:**\n\nDust Be My Destiny\n\n**Year:**\n\n1939"
+}

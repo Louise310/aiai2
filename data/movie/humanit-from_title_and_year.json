@@ -1,0 +1,9 @@
+{
+  "item_type": "movie",
+  "title": "Humanité",
+  "descriptions": "In Humanité (1999), a quiet, emotionally distant police detective in a small northern French town investigates the brutal rape and murder of a young girl. The officer, Pharaon De Winter, is socially awkward yet hypersensitive, overwhelmed by the suffering he encounters and seemingly unable to separate his work from a profound, almost childlike empathy. He spends his days trailing tenuous leads, hovering around his neighbors—particularly a coarse factory worker and his girlfriend—with whom he forms an uneasy triangle of desire, tenderness, and frustration.\n\nAs the investigation stagnates, the film dwells less on procedural breakthroughs than on the textures of daily life: factory floors, muddy fields, shared meals, and moments of awkward intimacy. Pharaon’s compassion borders on agony; he cries as if feeling the pain of others in his own body, yet he remains ineffectual in finding the perpetrator. The town’s moral landscape blurs, and suspicion migrates among ordinary people whose banal routines conceal their own forms of cruelty, need, and resignation.\n\nThe climax offers a troubling resolution that implicates both the community’s quiet hypocrisies and Pharaon’s own inability to reconcile purity with reality. Humanité becomes less a whodunit than a meditation on empathy, alienation, and the fragile line between innocence and complicity, asking whether true humanity lies in solving crimes or in bearing witness to the unbearable.",
+  "origin": "LLM",
+  "llm_engine": "gpt-5",
+  "generation_prompt_uid": "gen-1765214679-kPsPgu6Aptenuev7bEib",
+  "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 225.0 words or less.\n\n---\n\n**Title:**\n\nHumanité\n\n**Year:**\n\n1999"
+}
