@@ -1,0 +1,9 @@
+{
+  "item_type": "product",
+  "title": "Jack Henry Cleanse+ Hair Shampoo | All Hair Types - Premium, Natural, Organic - Made in USA - 10 Ounces",
+  "descriptions": "{\n  \"title\": \"Jack Henry Cleanse+ Hair Shampoo\",\n  \"brand\": \"Jack Henry\",\n  \"product_type\": \"Shampoo\",\n  \"size\": {\n    \"value\": 10,\n    \"unit\": \"ounces\"\n  },\n  \"hair_types\": \"All\",\n  \"made_in\": \"USA\",\n  \"usage\": \"Everyday\",\n  \"claims\": [\n    \"Purifies and balances hair and scalp\",\n    \"Leaves hair softer, fuller, cleaner\",\n    \"Does not strip or dry hair\",\n    \"Free from harmful chemicals and preservatives\"\n  ],\n  \"ingredients_characteristics\": [\n    \"Premium\",\n    \"Natural\",\n    \"Organic\"\n  ]\n}",
+  "origin": "LLM",
+  "llm_engine": "gpt-5",
+  "generation_prompt_uid": "gen-1765274573-F9ondDw6Elg5c2JXzml2",
+  "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: Jack Henry Cleanse+ Hair Shampoo | All Hair Types - Premium, Natural, Organic - Made in USA - 10 Ounces\n\nDescription: Purifies and balances your hair and scalp\n\nLeaves your hair softer, fuller, and cleaner\n\nDoesn't strip or dry\n\nFree from harmful chemicals and preservatives\n\nFor all hair types and everyday use."
+}
