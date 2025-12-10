@@ -1,0 +1,9 @@
+{
+  "item_type": "product",
+  "title": "Ray-Ban Rb2180 Round Sunglasses",
+  "descriptions": "{\n  \"brand\": \"Ray-Ban\",\n  \"model\": \"RB2180\",\n  \"product_type\": \"Sunglasses\",\n  \"style\": \"Round / roundish\",\n  \"design\": \"Simple, timeless, modern classic\",\n  \"fit\": \"Easy to wear; suitable for casual daily use\",\n  \"lens_options\": [\n    \"Solid\",\n    \"Mirrored\",\n    \"Gradient\"\n  ],\n  \"frame_color_options\": [\n    \"Classic colors\",\n    \"Contemporary tones\"\n  ],\n  \"warranty\": \"Eligible for manufacturer warranties and guarantees when sold by authorized sellers (e.g., Amazon)\",\n  \"availability\": \"Part of the broader Ray-Ban sunglasses and eyeglasses assortment\",\n  \"target_use\": \"Everyday casual wear\"\n}",
+  "origin": "LLM",
+  "llm_engine": "gpt-5",
+  "generation_prompt_uid": "gen-1765273272-IX0AyAuZJeWc2YG8wiRk",
+  "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: Ray-Ban Rb2180 Round Sunglasses\n\nDescription: Modern classics with an open-minded personality. Thanks to a simple and timeless design, 2180 represents one of the most popular and loved models at a global level. The RB2180 is an easy to wear roundish style that can easily be your companion to guide you through your casual daily routines. Available in a variety of classic colors and contemporary tones, with solid, mirrored, or gradient lenses. Ray-Ban sunglasses sold by authorized sellers, like Amazon, are eligible for all manufacturer warranties and guarantees. Click on the Ray-Ban link above the product title to shop the entire Ray-Ban sunglass and eyeglass assortment."
+}
