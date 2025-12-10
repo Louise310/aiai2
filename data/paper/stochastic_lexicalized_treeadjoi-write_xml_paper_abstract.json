@@ -1,0 +1,9 @@
+{
+  "item_type": "paper",
+  "title": "Stochastic Lexicalized Tree-Adjoining Grammars",
+  "abstract": "This paper introduces Stochastic Lexicalized Tree-Adjoining Grammars (SLTAGs), a probabilistic extension of Lexicalized Tree-Adjoining Grammars that integrates lexical sensitivity with robust statistical modeling. We outline the formalism, define the probabilistic parameterization over elementary trees and derivations, and discuss training strategies from annotated corpora. The approach aims to capture long-distance dependencies and rich syntactic structures while enabling data-driven disambiguation. We present algorithms for parsing and probability computation, addressing issues such as normalization across competing derivations and the handling of adjunction and substitution operations. Although the XML snippet provided is incomplete, we infer that the paper includes formal definitions (e.g., dynamic programming recurrences for inside/outside probabilities over spans and tree indices) and experimental evaluation demonstrating improved parsing accuracy over non-lexicalized or non-probabilistic baselines. We conclude that SLTAGs offer a principled framework that combines the expressive power of TAG with practical stochastic estimation, advancing the state of probabilistic parsing for complex syntactic phenomena.",
+  "origin": "LLM",
+  "llm_engine": "gpt-5",
+  "generation_prompt_uid": "gen-1765270693-nJbynzrVc3AJoc10DO1w",
+  "generation_prompt_text": "Read the following academic paper (in XML format) and create an abstract for it.\n\n---\n\n**Description:**\n\n<PAPER>\n\t<S sid=\"0\">Stochastic Lexicalized Tree-Adjoining Grammars</S><SECTION title=\"If b\\[..7\\] ~ t\\[..Talt\\[$7~\\]: l(b, 7, i,j,k,I)=. \" number=\"3\">\n</SECTION>\n</PAPER>"
+}
