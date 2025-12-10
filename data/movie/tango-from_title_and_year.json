@@ -1,0 +1,9 @@
+{
+  "item_type": "movie",
+  "title": "Tango",
+  "descriptions": "Tango (1998) is a Spanish-Argentine drama set in Buenos Aires, following Mario Suárez, a celebrated film director reeling from a painful breakup. To drown his heartbreak, he launches an ambitious movie about the history and soul of the tango, blending rehearsal, performance, and personal confession. As Mario casts dancers and musicians, he becomes captivated by Elena, a stunning young dancer and the girlfriend of Angelo, a powerful financier with criminal ties who is backing the production.\n\nArt and life blur as Mario’s film stages the tango’s sensuality, immigrant roots, and political scars, including daring numbers that evoke Argentina’s Dirty War. The intense choreography mirrors the characters’ emotional entanglements: jealousy, desire, control, and betrayal. Angelo’s possessiveness and influence threaten both the production and Elena’s autonomy, while Mario’s obsession risks turning his art into a battleground for his own needs.\n\nThe movie-within-the-movie structure creates a kaleidoscope of dance sequences that advance the drama, with performers channeling passion and violence through movement. As tensions peak, Mario must choose between artistic integrity and self-preservation, and Elena faces whether to dance for love, freedom, or survival. The film culminates in a powerfully staged finale where the tango’s embrace becomes both refuge and reckoning, capturing the dance as an expression of longing, memory, and the cost of creation.",
+  "origin": "LLM",
+  "llm_engine": "gpt-5",
+  "generation_prompt_uid": "gen-1765217644-7QWbOlMuHcBhHEHGHIZs",
+  "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 218.0 words or less.\n\n---\n\n**Title:**\n\nTango\n\n**Year:**\n\n1998"
+}

@@ -1,0 +1,9 @@
+{
+  "item_type": "movie",
+  "title": "The Vulture",
+  "descriptions": "In 1937’s The Vulture, a taut British crime melodrama with noir overtones, a string of high-society thefts rattles a fog-laden coastal town. Priceless jewels vanish without a trace at soirées and charity galas, each crime preceded by a cryptic calling card: a black feather left in the host’s study. Rumors spread that “The Vulture,” a remorseless mastermind who feeds on the weakness and vanity of the wealthy, has returned to settle old scores.\n\nInspector Arthur Mallory, a steady, quietly dogged Scotland Yard man haunted by a botched case, is dispatched to untangle the pattern. He teams with Vera Lydon, an intrepid society columnist whose candid observations and access grant her entrée to circles Mallory can’t easily penetrate. Together they uncover a web of debts, betrayals, and wartime secrets binding the town’s elite—especially the imperious shipping magnate Sir Roland Calthorpe and his anxious heir, Peter.\n\nAs the robberies escalate into blackmail and a fatal “accident” on the cliffs, Mallory suspects The Vulture is not a foreign interloper but a local, someone who knows exactly when to strike and where the skeletons are buried. A tense trap is set at a lavish masquerade aboard Calthorpe’s yacht, where the feathered emblem is turned against its owner. In the final unmasking, Mallory exposes a vengeful figure cloaking righteous fury in criminal cunning, forcing the town to confront the human cost of its respectability. Order is restored, but at a moral price Mallory and Vera cannot easily shake.",
+  "origin": "LLM",
+  "llm_engine": "gpt-5",
+  "generation_prompt_uid": "gen-1765215024-GPSQOIYwIc4H47cX0Aos",
+  "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 232.0 words or less.\n\n---\n\n**Title:**\n\nThe Vulture\n\n**Year:**\n\n1937"
+}

@@ -1,0 +1,9 @@
+{
+  "item_type": "movie",
+  "title": "Trial by Jury",
+  "descriptions": "In 1994’s Trial by Jury, Valerie Alston is an ordinary single mother called to serve on a high-profile murder trial against ruthless mob boss Rusty Pirone. What begins as a civic duty turns sinister when Pirone’s terrifying enforcer, a cold-blooded hitman, targets her and reveals they know everything about her and her son. Under escalating threats, Valerie is coerced into sabotaging the verdict from inside the jury room.\n\nAs deliberations begin, Valerie struggles with fear and conscience, trying to subtly steer fellow jurors while avoiding suspicion from a relentless assistant district attorney who senses something is off. Her attempts to protect her child force her into moral compromises, lying to peers and manipulating evidence discussion. Meanwhile, the mob’s grip tightens, demanding more decisive action to guarantee an acquittal.\n\nThe tension builds as Valerie weighs the lives at stake: her son’s safety versus justice for the victims. With the jury deadlocked, she must choose between defying the mob and risking everything or living with the consequences of corruption. The climax brings a desperate bid to expose the coercion, turning the courtroom drama into a personal battle for survival and redemption, as Valerie seeks a path that can both save her child and confront the violent power threatening the system.",
+  "origin": "LLM",
+  "llm_engine": "gpt-5",
+  "generation_prompt_uid": "gen-1765217357-guuM2gwmd0ivDUcd3dWu",
+  "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 210.0 words or less.\n\n---\n\n**Title:**\n\nTrial by Jury\n\n**Year:**\n\n1994"
+}

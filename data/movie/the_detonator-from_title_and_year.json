@@ -1,0 +1,9 @@
+{
+  "item_type": "movie",
+  "title": "The Detonator",
+  "descriptions": "Ex-CIA agent Sonni Griffith is pulled out of semi-retirement for a covert assignment in Eastern Europe: protect Nadia, a beautiful accountant who’s about to testify against a powerful arms dealer laundering money through the Balkans. Posing as her fiancé, Sonni must shepherd her from Romania to safe harbor while uncovering a conspiracy that reaches into local law enforcement and his own former handlers. Things go sideways when a massive arms sale—centered on a stolen, compact nuclear device nicknamed “the Detonator”—draws in mercenaries, corrupt officials, and a relentless assassin with a personal grudge.\n\nAs the body count rises, Sonni realizes Nadia holds the access codes to the weapon’s arming sequence, making her both the key to stopping a catastrophe and the prime target for every player in the game. Double-crosses force Sonni to operate off the grid, improvising through safe houses, night markets, and crumbling industrial ruins. With time running out, he infiltrates the climactic exchange, pitting his fieldcraft and brutal efficiency against overwhelming odds. In a showdown that threatens a city, Sonni fights to secure the device, expose the traitors, and get Nadia to the courthouse alive—turning the tables with a final gambit that neutralizes the bomb and the conspiracy behind it.",
+  "origin": "LLM",
+  "llm_engine": "gpt-5",
+  "generation_prompt_uid": "gen-1765215576-dwCmDV5miYiClxAqFsSS",
+  "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 211.0 words or less.\n\n---\n\n**Title:**\n\nThe Detonator\n\n**Year:**\n\n2006"
+}

@@ -1,0 +1,9 @@
+{
+  "item_type": "movie",
+  "title": "White Wedding",
+  "descriptions": "White Wedding (1989) follows a tightly wound couple, Claire and David, as they race toward their meticulously planned nuptials over one chaotic weekend. Claire, a perfectionist with a brittle smile, has built her dream ceremony down to the ribbon colors; David, a gentle romantic, just wants everyone to get along. Their plans unravel when Claire’s outspoken sister arrives with a surprise plus-one—Claire’s impulsive ex, freshly sober and overflowing with apologies—and David’s estranged father shows up uninvited, hauling decades of resentment and a new, much younger fiancée.\n\nAs mishaps pile up—a ruined dress, a vanished ring, a florist strike, and a rehearsal dinner turned confession booth—the couple is forced to confront the truth beneath the lace and seating charts: Claire’s fear that love won’t last, David’s tendency to avoid conflict, and the families’ competing expectations about tradition, class, and control. Meanwhile, a wry best man and a fiercely loyal maid of honor attempt triage, shepherding the wedding party through absurd detours that deepen old wounds and spark unexpected camaraderie.\n\nOn the morning of the ceremony, a storm threatens to cancel everything, but the chaos clarifies what matters. Claire and David rewrite their vows on the back of a crumpled program, choose a simpler ceremony, and invite their fractured families to stand together. The result is imperfect, heartfelt, and honest—a white wedding stained by reality, transformed into something truly their own.",
+  "origin": "LLM",
+  "llm_engine": "gpt-5",
+  "generation_prompt_uid": "gen-1765214623-v3DQPlYbKBYcdAG8SGYu",
+  "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 226.0 words or less.\n\n---\n\n**Title:**\n\nWhite Wedding\n\n**Year:**\n\n1989"
+}

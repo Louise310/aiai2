@@ -1,0 +1,9 @@
+{
+  "item_type": "movie",
+  "title": "The Perfect Circle",
+  "descriptions": "Set in Sarajevo in 1997, The Perfect Circle follows Hamza, a middle-aged Bosnian poet numbed by war and marital estrangement, who reluctantly becomes guardian to two orphaned brothers, Adis and Kerim. The boys have fled the siege after witnessing their parents’ deaths, carrying only fragmentary memories and a determination to find surviving family. In a city scarred by snipers, shortages, and intermittent shelling, Hamza’s apartment becomes a fragile sanctuary where routine—tea, poems, chalk circles on the floor—offers a semblance of safety.\n\nAs Hamza searches for ways to reunite the brothers with relatives across shifting front lines, the trio navigate checkpoints, black-market trades, and sudden bursts of violence. Small acts of humanity—sharing bread, a neighbor’s quiet kindness, a joke at dusk—stand in stark relief against the brutality outside. Hamza, initially detached, rediscovers responsibility and purpose through the boys’ resilience; the boys, wary and traumatized, slowly place their trust in him.\n\nThe “perfect circle” evokes both the poet’s compulsion for order in chaos and the children’s games that carve out fleeting peace. When tragedy disrupts their tenuous bond, Hamza must confront the cost of survival and the obligation to remember. The film closes on an ambiguous note of endurance: art, memory, and makeshift family as imperfect defenses against loss, yet the only ones left.",
+  "origin": "LLM",
+  "llm_engine": "gpt-5",
+  "generation_prompt_uid": "gen-1765216429-0Syi7rJabi6YM6a3NBjt",
+  "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 218.0 words or less.\n\n---\n\n**Title:**\n\nThe Perfect Circle\n\n**Year:**\n\n1997"
+}
